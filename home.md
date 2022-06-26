@@ -2,7 +2,7 @@
 title: Eden Wiki
 description: Personal knowledge base
 published: true
-date: 2022-06-26T13:30:08.559Z
+date: 2022-06-26T13:56:35.307Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-26T12:58:39.036Z
@@ -13,4 +13,9 @@ dateCreated: 2022-06-26T12:58:39.036Z
 
 
 # Algorithm
-Your content here
+
+# Server
+
+# Java
+
+# Python
