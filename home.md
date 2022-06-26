@@ -2,7 +2,7 @@
 title: Eden Wiki
 description: Personal knowledge base
 published: true
-date: 2022-06-26T16:51:45.765Z
+date: 2022-06-26T16:51:55.948Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-26T12:58:39.036Z
@@ -25,6 +25,7 @@ dateCreated: 2022-06-26T12:58:39.036Z
 
 - [Vue *MVVM front-end framework*]()
 - [Element-Plus *Component library for VUE*]()
+{.links-list}
 
 # Server
 
