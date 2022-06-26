@@ -2,7 +2,7 @@
 title: Leetcode
 description: Leetcode questions
 published: true
-date: 2022-06-26T14:17:32.698Z
+date: 2022-06-26T14:19:26.902Z
 tags: algorithm, leetcode
 editor: markdown
 dateCreated: 2022-06-26T14:09:35.282Z
@@ -45,3 +45,7 @@ dateCreated: 2022-06-26T14:09:35.282Z
 ## Trie
 
 ## Dynamic Programming
+
+## Shortest Path
+
+## Minimum Spanning Tree
