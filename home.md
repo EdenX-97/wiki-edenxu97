@@ -2,7 +2,7 @@
 title: Eden Wiki
 description: Personal knowledge base
 published: true
-date: 2022-06-26T16:59:39.952Z
+date: 2022-06-26T17:02:15.937Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-26T12:58:39.036Z
@@ -38,4 +38,5 @@ dateCreated: 2022-06-26T12:58:39.036Z
 
 - [Java *Famous programming language*]()
 - [Python *Great scripting language or ML*]()
+- [JavaScript *Language for front-end*]()
 {.links-list}
