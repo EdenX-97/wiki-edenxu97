@@ -2,7 +2,7 @@
 title: Eden Wiki
 description: Personal knowledge base
 published: true
-date: 2022-06-26T16:51:55.948Z
+date: 2022-06-26T16:55:22.694Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-26T12:58:39.036Z
@@ -19,6 +19,8 @@ dateCreated: 2022-06-26T12:58:39.036Z
 # Back End
 
 - [SpringBoot *Popular java back-end framework*]()
+- [MongoDB *Famous NoSQL database*]()
+- [Redis *High performance NoSQL database*]()
 {.links-list}
 
 # Front End
