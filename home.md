@@ -2,7 +2,7 @@
 title: Eden Wiki
 description: Personal knowledge base
 published: true
-date: 2022-06-26T16:55:22.694Z
+date: 2022-06-26T16:56:10.199Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-26T12:58:39.036Z
@@ -31,7 +31,7 @@ dateCreated: 2022-06-26T12:58:39.036Z
 
 # Server
 
-- [AWS Certification *Study and exam*](/home/Server/AWS-Certification)
+- [AWS *Study and exam*](/home/Server/AWS-Certification)
 {.links-list}
 
 # Programming Language
