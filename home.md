@@ -2,7 +2,7 @@
 title: Eden Wiki
 description: Personal knowledge base
 published: true
-date: 2022-06-26T14:46:15.274Z
+date: 2022-06-26T14:47:52.211Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-26T12:58:39.036Z
@@ -13,7 +13,7 @@ dateCreated: 2022-06-26T12:58:39.036Z
 
 # Algorithm
 
-[Leetcode](/home/Algorithm/Leetcode)
+- [Leetcode](/home/Algorithm/Leetcode)
 {.links-list}
 
 # Back End
