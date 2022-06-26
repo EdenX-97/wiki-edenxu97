@@ -2,7 +2,7 @@
 title: Leetcode
 description: Leetcode questions
 published: true
-date: 2022-06-26T14:09:35.282Z
+date: 2022-06-26T14:17:32.698Z
 tags: algorithm, leetcode
 editor: markdown
 dateCreated: 2022-06-26T14:09:35.282Z
@@ -23,3 +23,25 @@ dateCreated: 2022-06-26T14:09:35.282Z
 ## Binary Search Tree
 
 # Algorithm
+
+## Simulation
+
+## Greedy
+
+## Binary Search
+
+## Backtracking & Recursion
+
+## Depth-First Search
+
+## Breadth-First Search
+
+## Divide and Conquer
+
+## Sorting
+
+## Manacher
+
+## Trie
+
+## Dynamic Programming
