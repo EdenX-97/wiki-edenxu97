@@ -2,7 +2,7 @@
 title: AWS
 description: Study and exam about AWS certification
 published: true
-date: 2022-06-26T16:46:09.124Z
+date: 2022-06-26T16:56:30.313Z
 tags: server, aws
 editor: markdown
 dateCreated: 2022-06-26T14:56:17.206Z
