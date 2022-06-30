@@ -2,7 +2,7 @@
 title: SSR Node Deployment
 description: How to deploy ShadowsocksR node in server
 published: true
-date: 2022-06-30T09:26:18.064Z
+date: 2022-06-30T09:30:58.302Z
 tags: server, ssr
 editor: markdown
 dateCreated: 2022-06-30T09:08:48.125Z
@@ -29,6 +29,16 @@ nohup ssserver -m aes-256-cfb -p 15251 -k 123 &
 
 > aes-256-cfb is the encryption method, 15251 is the port you can modify, 123 is the password you can choose, do not forget last &
 {.is-info}
+
+After the above command, you can exit the ssh connect if running correctly.
+
+# Using
+
+1. Download the client for your OS, suggest:
+	- Windows: [Shadowsocks](http://shadowsocks.org/)
+  - Mac: [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG/releases)
+  - Iphone/Ipad: Shadowrocket in AppStore
+  
 
 
 
