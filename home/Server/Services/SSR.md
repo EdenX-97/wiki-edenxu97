@@ -2,7 +2,7 @@
 title: SSR Node Deployment
 description: How to deploy ShadowsocksR node in server
 published: true
-date: 2022-06-30T09:33:41.507Z
+date: 2022-06-30T09:37:51.448Z
 tags: server, ssr
 editor: markdown
 dateCreated: 2022-06-30T09:08:48.125Z
@@ -36,13 +36,13 @@ After the above command, you can exit the ssh connect if running correctly.
 
 1. Download the client for your OS, suggest:
 	- Windows: [Shadowsocks](http://shadowsocks.org/)
-  - Mac: [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG/releases)
-  - Iphone/Ipad: Shadowrocket in AppStore
+  	- Mac: [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG/releases)
+  	- Iphone/Ipad: Shadowrocket in AppStore
 2. In client, add a new server
 	- Address: Your server ip or domain
-  - Port: 15251 or what you set
-  - Password: 123 or what you set
-  - Method/Encryption: aes-256-cfb
+  	- Port: 15251 or what you set
+  	- Password: 123 or what you set
+  	- Method/Encryption: aes-256-cfb
 3. Click Ok/Donw and open the connection in client, enjoy!
   
 
