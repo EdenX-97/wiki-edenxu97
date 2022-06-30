@@ -2,7 +2,7 @@
 title: SSR Node Deployment
 description: How to deploy ShadowsocksR node in server
 published: true
-date: 2022-06-30T09:24:52.117Z
+date: 2022-06-30T09:25:32.580Z
 tags: server, ssr
 editor: markdown
 dateCreated: 2022-06-30T09:08:48.125Z
@@ -27,6 +27,6 @@ pip3 install https://github.com/shadowsocks/shadowsocks/archive/master.zip -U
 nohup ssserver -m aes-256-cfb -p 15251 -k abc@123 &
 ```
 
-> aes-256-cfb is the encryption method, 15251 is the port used, abc@123 is the password, do not forget last &
+> aes-256-cfb is the encryption method, 15251 is the port you can modify, abc@123 is the password you can choose, do not forget last &
 {.is-info}
 
